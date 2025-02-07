@@ -35,5 +35,6 @@
         <p><strong>Sở thích cá nhân:</strong> Ăn chơi</p>
         <p><strong>Màu sắc yêu thích:</strong> Màu tím</p>
     </div>
+    <a href="hinhanh">Đi đến hình ảnh</a>
 </body>
 </html>
