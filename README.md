@@ -35,6 +35,5 @@
         <p><strong>Sở thích cá nhân:</strong> Ăn chơi</p>
         <p><strong>Màu sắc yêu thích:</strong> Màu tím</p>
     </div>
-<iframe src="https://example.com" width="800" height="600" style="border: none;"></iframe>
 </body>
 </html>
